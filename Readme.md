@@ -21,7 +21,7 @@ Technology, coding, chemistry, and physics.
 
 ## Find me online
 
-- [Discord](https://discord.gg/NotMubasshir)
+- Discord: Notmubasshir
 - [Instagram](https://instagram.com/notmubasshirx)
 - [Email](mailto:NotMubasshir.proton.me)
 

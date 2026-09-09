@@ -26,9 +26,6 @@ Technology, coding, chemistry, and physics.
 - [Email](mailto:NotMubasshir.proton.me)
 
 ## GitHub stats
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=NotMubasshir&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=NotMubasshir&theme=gruvbox&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=NotMubasshir&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)

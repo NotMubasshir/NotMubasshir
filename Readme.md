@@ -13,7 +13,7 @@ Right now, I'm mainly interested in web development, programming languages, and 
 
 ## Languages I use
 
-HTML, JavaScript, Python, C++, and Lua.
+HTML, CSS, JavaScript, Python, C++, Typescript and Lua.
 
 ## Other interests
 
